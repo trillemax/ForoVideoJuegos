@@ -1,0 +1,7 @@
+com\mycompany\forovideojuegos\dao\ConexionBD.class
+com\mycompany\forovideojuegos\resources\JakartaEE10Resource.class
+com\mycompany\forovideojuegos\TestConexionBD.class
+com\mycompany\forovideojuegos\JakartaRestConfiguration.class
+com\mycompany\forovideojuegos\model\Registro.class
+com\mycompany\forovideojuegos\servlets\Registrar.class
+com\mycompany\forovideojuegos\dao\RegistroDao.class
